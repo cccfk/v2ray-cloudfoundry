@@ -2,6 +2,6 @@ applications:
 - path: .
   name: cccfk
   random-route: true
-  memory: 256M:qw
+  memory: 256M
   
   
