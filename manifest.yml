@@ -1,5 +1,7 @@
 applications:
 - path: .
-  name: GetStartedGo
+  name: cccfk
   random-route: true
-  memory: 128M
+  memory: 256M:qw
+  
+  
